@@ -982,7 +982,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong><center>1-Ambatolampy,Antehiroka</center></strong><img src="/assets/tanakompania1.JPG" width="200"  alt=""><img src="/assets/tanakompania2.JPG" width="200"  alt=""><p>Distirct Ambohidroa</p>',
+              'description': '<strong><center>1-Ambatolampy,Antehiroka</center></strong><img src="/assets/antehiroka1.JPG" width="200"  alt=""><img src="/assets/antehiroka2.JPG" width="200"  alt=""><p>Distirct Ambohidroa</p>',
               'icon': 'star'
             },
             'geometry': {
@@ -1004,7 +1004,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong>Ankazo Mahitsy</strong><p>District Mahitsy</p>',
+              'description': '<strong>Ankazo Mahitsy</strong><img src="/assets/ankazo1.JPG" width="200"  alt=""><img src="/assets/ankazo2.JPG" width="200"  alt=""><p>District Mahitsy</p>',
               'icon': 'star'
             },
             'geometry': {
@@ -1076,6 +1076,28 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'geometry': {
               'type': 'Point',
               'coordinates': [47.144487, -19.723687]
+            }
+          }, {
+            'type': 'Feature',
+            'properties': {
+              // tslint:disable-next-line:max-line-length
+              'description': '<strong>Analamanga, Antsoihy</strong><img src="/assets/analamanga1.JPG" width="200"  alt=""><img src="/assets/analamanga2.JPG" width="200"  alt=""><p>District Antsoihy</p>',
+              'icon': 'star'
+            },
+            'geometry': {
+              'type': 'Point',
+              'coordinates': [46.5230765, -16.6280885]
+            }
+          }, {
+            'type': 'Feature',
+            'properties': {
+              // tslint:disable-next-line:max-line-length
+              'description': '<strong>Anahidrano, Antsoihy</strong><img src="/assets/anahidrano1.JPG" width="200"  alt=""><img src="/assets/anahidrano2.JPG" width="200"  alt=""><p>District Antsoihy</p>',
+              'icon': 'star'
+            },
+            'geometry': {
+              'type': 'Point',
+              'coordinates': [47.5063617, -15.2294196]
             }
           }, {
             'type': 'Feature',
@@ -1224,7 +1246,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong>Tanambe Amparafaravola</strong><p>District Amparafaravola Est</p>',
+              'description': '<strong>Tanambe Amparafaravola</strong><img src="/assets/tanambe1.JPG" width="200"  alt=""><img src="/assets/tanmambe2.JPG" width="200"  alt=""><p>District Amparafaravola Est</p>',
               'icon': 'star'
             },
             'geometry': {
@@ -1246,7 +1268,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong>Ambohijanahary Amparafaravola</strong><p>District Amparafaravola Est</p>',
+              'description': '<strong>Ambohijanahary Amparafaravola</strong><img src="/assets/ambohijanahary1.JPG" width="200"  alt=""><img src="/assets/ambohijanahary2.JPG" width="200"  alt=""><p>District Amparafaravola Est</p>',
               'icon': 'star'
             },
             'geometry': {
@@ -1488,7 +1510,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong>Itampolo Ampanihy</strong><p>District Ampanihy</p>',
+              'description': '<strong>Itampolo Ampanihy</strong><img src="/assets/itamplolo1.JPG" width="200"  alt=""><img src="/assets/itampolo2.JPG" width="200"  alt=""><p>District Ampanihy</p>',
               'icon': 'star'
             },
             'geometry': {
@@ -1554,23 +1576,23 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong>Tanandava Samangoky</strong><p>District Morombe I</p>',
-              'icon': 'star'
-            },
-            'geometry': {
-              'type': 'Point',
-              'coordinates': [43.8424635, -21.8155502]
-            }
-          }, {
-            'type': 'Feature',
-            'properties': {
-              // tslint:disable-next-line:max-line-length
               'description': '<strong>Betania Tulear</strong><img src="/assets/betania1.JPG" width="200"  alt=""><img src="/assets/betania2.JPG" width="200"  alt=""><p>District Tulear I</p>',
               'icon': 'star'
             },
             'geometry': {
               'type': 'Point',
               'coordinates': [43.6734009, -23.341912]
+            }
+          }, {
+            'type': 'Feature',
+            'properties': {
+              // tslint:disable-next-line:max-line-length
+              'description': '<strong>Vineta Tulear</strong><img src="/assets/vineta1.JPG" width="200"  alt=""><img src="/assets/vineta2.JPG" width="200"  alt=""><p>District Tulear II</p>',
+              'icon': 'star'
+            },
+            'geometry': {
+              'type': 'Point',
+              'coordinates': [43.725549, -23.395198]
             }
           }, {
             'type': 'Feature',
@@ -1697,7 +1719,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong>Andohomby Port Berge</strong><p>District Port Berge</p>',
+              'description': '<strong>Andohomby Port Berge</strong><img src="/assets/andohanomby1.JPG" width="200"  alt=""><img src="/assets/andohanomby2.JPG" width="200"  alt=""><p>District Port Berge</p>',
               'icon': 'star'
             },
             'geometry': {
@@ -1719,7 +1741,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong>Ambondromamy Croisement</strong><p>District Port Berge</p>',
+              'description': '<strong>Ambondromamy Croisement</strong><img src="/assets/tsara.JPG" width="200"  alt=""><img src="/assets/maevatanana2.JPG" width="200"  alt=""><p>District Port Berge</p>',
               'icon': 'star'
             },
             'geometry': {
@@ -1741,7 +1763,18 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong>Tsararivotra Befandriana Nord</strong><p>District Befandriana Nord</p>',
+              'description': '<strong>Maevatanana Shcool</strong><img src="/assets/maevatanana1.JPG" width="200"  alt=""><img src="/assets/maevatanana2.JPG" width="200"  alt=""><p>District Maevatanana</p>',
+              'icon': 'star'
+            },
+            'geometry': {
+              'type': 'Point',
+              'coordinates': [46.8214345, -16.9501432]
+            }
+          }, {
+            'type': 'Feature',
+            'properties': {
+              // tslint:disable-next-line:max-line-length
+              'description': '<strong>Tsararivotra Befandriana Nord</strong><img src="/assets/tsararivotra1.JPG" width="200"  alt=""><img src="/assets/tsararivotra2.JPG" width="200"  alt=""><p>District Befandriana Nord</p>',
               'icon': 'star'
             },
             'geometry': {
@@ -1752,7 +1785,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong>Ambalamadiro</strong><p>District Mandritsara</p>',
+              'description': '<strong>Ambalamadiro</strong><img src="/assets/ambalamadiro1.JPG" width="200"  alt=""><img src="/assets/ambalamadiro2.JPG" width="200"  alt=""><p>District Mandritsara</p>',
               'icon': 'star'
             },
             'geometry': {
@@ -1807,7 +1840,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             'type': 'Feature',
             'properties': {
               // tslint:disable-next-line:max-line-length
-              'description': '<strong>Behozamaty Kandreho</strong><p>District Kandreho</p>',
+              'description': '<strong>Behozamaty Kandreho</strong><img src="/assets/kandreho1.JPG" width="200"  alt=""><img src="/assets/kandreho2.JPG" width="200"  alt=""><p>District Kandreho</p>',
               'icon': 'star'
             },
             'geometry': {
