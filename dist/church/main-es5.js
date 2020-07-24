@@ -1658,7 +1658,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             },
             'geometry': {
               'type': 'Point',
-              'coordinates': [44.7823493, -15.0128171]
+              'coordinates': [46.3340202, -15.678992]
             }
           }, {
             'type': 'Feature',
@@ -1691,7 +1691,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             },
             'geometry': {
               'type': 'Point',
-              'coordinates': [46.2677144, -15.6874121]
+              'coordinates': [46.343247, -15.676513]
             }
           }, {
             'type': 'Feature',
@@ -1713,7 +1713,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             },
             'geometry': {
               'type': 'Point',
-              'coordinates': [46.2636439, -15.691973]
+              'coordinates': [46.3606923, -15.716437]
             }
           }, {
             'type': 'Feature',
