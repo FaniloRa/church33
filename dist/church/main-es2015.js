@@ -480,7 +480,7 @@ let MapComponent = class MapComponent {
                     'type': 'Feature',
                     'properties': {
                         // tslint:disable-next-line:max-line-length
-                        'description': '<strong><center>Tanakompania,Ihosy</center></strong><img src="/assets/tanakompania1.JPG" width="200"  alt=""><img src="/assets/tanakompania2.JPG" width="200"  alt=""><p>District Ihosy</p>',
+                        'description': '<strong><center>Tanakompania,Ihosy</center></strong><img src="/assets/tanakompania1.jpg" width="200"  alt=""><img src="/assets/tanakompania2.jpg" width="200"  alt=""><p>District Ihosy</p>',
                         'icon': 'star'
                     },
                     'geometry': {
@@ -1184,7 +1184,7 @@ let MapComponent = class MapComponent {
                     },
                     'geometry': {
                         'type': 'Point',
-                        'coordinates': [44.7802723, -17.2426316]
+                        'coordinates': [44.7823493, -15.0128171]
                     }
                 }, {
                     'type': 'Feature',
@@ -1267,7 +1267,7 @@ let MapComponent = class MapComponent {
                     'type': 'Feature',
                     'properties': {
                         // tslint:disable-next-line:max-line-length
-                        'description': '<strong>Ambondromamy Croisement</strong><img src="/assets/tsara.JPG" width="200"  alt=""><img src="/assets/maevatanana2.JPG" width="200"  alt=""><p>District Port Berge</p>',
+                        'description': '<strong>Ambondromamy Croisement</strong><img src="/assets/tsara1.JPG" width="200"  alt=""><img src="/assets/tsara2.JPG" width="200"  alt=""><p>District Port Berge</p>',
                         'icon': 'star'
                     },
                     'geometry': {
@@ -1278,7 +1278,7 @@ let MapComponent = class MapComponent {
                     'type': 'Feature',
                     'properties': {
                         // tslint:disable-next-line:max-line-length
-                        'description': '<strong>Tanambao Nord Mainitirano</strong><p>District Maintirano</p>',
+                        'description': '<strong>Tanambao Nord Mainitirano</strong><img src="/assets/tanambao1.JPG" width="200"  alt=""><img src="/assets/tanambao2.JPG" width="200"  alt=""><p>District Maintirano</p>',
                         'icon': 'star'
                     },
                     'geometry': {
